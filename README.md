@@ -1,35 +1,24 @@
-<h1 align="center">🌐 Radiant Security Loader</h1>
+# 🌐 Radiant Security Loader
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/version-1.0-blueviolet?style=for-the-badge" alt="Version">
-  <img src="https://img.shields.io/badge/secure-by%20design-critical?style=for-the-badge&color=red" alt="Security">
-</p>
+> Modern, secure Lua loader designed for stealth, integrity, and performance.
 
-<p align="center">
-  <strong>Radiant</strong> is a modern, secure Lua loader built for performance and protection.  
-  Designed with the latest anti-dump and integrity-check techniques, Radiant is your first line of defense.
-</p>
+![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
+![Version](https://img.shields.io/badge/version-1.0-blueviolet?style=flat-square)
+![Security](https://img.shields.io/badge/protection-anti%20dump%20%26%20hooking-critical?style=flat-square&color=red)
 
 ---
 
-## ✨ Features
+### ✨ Features
 
-- 🔒 **Anti-Dump Technology** — Defends against reverse engineering and memory dumps
-- ⚙️ **Hook-Proof Loading** — Intercepts only at critical safepoints with high stealth
-- ⚡ **High Performance** — Minimal performance impact, ultra-fast injection
-- 🔍 **Integrity Checks** — Validates script authenticity and memory state
-- 🌐 **Remote Config Support** — Dynamic control via encrypted endpoints
-
----
-
-## 🧠 Why Radiant?
-
-Radiant is built for developers who prioritize **security**, **efficiency**, and **modern architecture**. Whether you're protecting proprietary scripts or building advanced Lua tooling, Radiant has your back.
+- Anti-dump & memory protection
+- Hook-resistant load handling
+- Encrypted remote config
+- Integrity & runtime checks
+- Lightweight and fast
 
 ---
 
-## 🚀 Getting Started
+### 🚀 Quick Start
 
 ```bash
 git clone https://github.com/yourname/radiant-loader
