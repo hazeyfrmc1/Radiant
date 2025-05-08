@@ -1,8 +1,4 @@
-Here’s a modern, professional-looking **README embed section** for your **Security Loader** project called **Radiant**. It’s designed to be visually engaging and concise, following popular open-source formatting conventions:
 
----
-
-````markdown
 <h1 align="center">🌐 Radiant Security Loader</h1>
 
 <p align="center">
@@ -47,4 +43,3 @@ Misuse of this tool may violate terms of service or laws.
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&center=true&vCenter=true&lines=Built+for+Security.;Designed+for+Control.;Made+for+You."/>
 </p>
-```
